@@ -1,0 +1,19 @@
+.time {
+  font-size: 80px;
+}
+
+.days {
+  font-size: 90px;
+}
+
+.year {
+  font-size: 135px;
+}
+
+.dsl {
+  font-size: 67px;
+}
+
+.text-light{
+  text-shadow: 1px 1px 8px rgba(150, 150, 150, 1);
+}
