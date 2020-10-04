@@ -18,7 +18,7 @@ export class TimeComponent implements OnInit {
   second: any;
 
   constructor() {
-    this.dateEnd = new Date('2020-04-11T07:00:00');
+    this.dateEnd = new Date('2021-04-03T07:00:00');
   }
 
   ngOnInit() {
